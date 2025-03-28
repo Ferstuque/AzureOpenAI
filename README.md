@@ -24,8 +24,7 @@ The **OpenAI Playground** provides an interactive interface to test language mod
 
 ### Temperature 🌡️
 - **What is it?** It controls the randomness of the generated responses.
-  - **Temperature 0**: More deterministic responses.
-  - **Temperature 1**: More creative and varied responses.
+  - **Temperature 0 ~ 1**: More deterministic or more creative responses.
 
 ### Top P 🎯
 - **What is it?** An alternative method to control randomness, using a probabilistic approach to choose words.
