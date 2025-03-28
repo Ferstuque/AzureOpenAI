@@ -135,8 +135,7 @@ O **Playground** da OpenAI oferece uma interface interativa para testar modelos 
 
 ### Temperatura 🌡️
 - **O que é?** Controla a aleatoriedade nas respostas geradas. 
-  - **Temperatura 0**: Respostas mais determinísticas.
-  - **Temperatura 1**: Respostas mais criativas e variadas.
+  - **Temperatura 0 a 1**: Respostas mais determinísticas ou respostas mais criativas.
 
 ### Top P 🎯
 - **O que é?** Um método alternativo ao controle de temperatura, usando uma abordagem probabilística para escolher as palavras.
